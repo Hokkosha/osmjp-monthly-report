@@ -4,7 +4,7 @@ OpenStreetMap JapanのDiscordサーバーの過去ログ試験中です。
 DiscordChatExporter
 https://github.com/Tyrrrz/DiscordChatExporter
 
-のCli版を使用して、2026-05-01 から 2026-05-31 までのログを出力しました。
+のCli版を使用して、試験的に2026-05-01 から 2026-05-31 までのログを出力しました。
 - HTML Light
 - HTNL Dark
 - JSON
